@@ -1,1 +1,1 @@
-
+O código descreve a implementação de um sistema de reservas de passagens aéreas em linguagem C. O sistema permite ao usuário consultar voos disponíveis, fazer reservas, cancelar reservas e visualizar reservas existentes. A implementação faz uso de estruturas de dados para armazenar informações sobre voos, passageiros e reservas. O código é dividido em vários outros itens, que inclui definições de estruturas, funções para manipulação de dados, e o loop principal que apresenta um menu de interação com o usuário.
