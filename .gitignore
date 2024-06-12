@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+                      //Definicao das estruturas que representa voos, passageiros e reservas... a estrutura do código
 #define MAX_NAME_LEN 100
 #define MAX_DOC_LEN 20
 
